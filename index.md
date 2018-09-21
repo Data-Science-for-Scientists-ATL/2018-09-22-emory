@@ -11,7 +11,7 @@ humantime: "8:30 am - 5:00 pm"
 startdate: "2018-09-08"
 enddate: "2018-09-09"
 instructor: ["Sena Agezo", "David Nicholson", "Elyse Morin", "Varun Saravanan"]
-helper: ["TBA"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+helper: ["Marko Bajic", "Alex Dunlap", "Sara Fielder", "Lukas Hoffmann", "Joongsup (Jay) Lee", "Rett Morrissette", "Joe Natale", "Katherine Overman", "Jessica Owensby", "Stephanie Prince", "Kate Roman", "Robert Thorstadt"] # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["dnicho4@emory.edu"]
 collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
